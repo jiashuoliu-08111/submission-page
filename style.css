@@ -1,8 +1,9 @@
-*{
+body{
     background-color:lightgreen;
 }
 
 h1,h3{
     text-align: center;
     border:3px solid black;
+    padding-top: 100px;
 }
